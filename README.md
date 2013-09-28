@@ -1,4 +1,4 @@
-Chorio
+Canonical
 ======
 
-Chorio - Datalayer as a service
+Canonical - Single Source of Truth Person DB
