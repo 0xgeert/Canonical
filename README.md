@@ -3,7 +3,7 @@ Canonical
 
 Canonical - Centralized User Management, Authentication &amp; Permissions as a service. 
 
-Slogan: Plug &amp; Play Security
+Slogan: **Plug &amp; Play Security**
 
 Implements a fully declarative oAuth 2.0 server fully supporting all oAuth2 flows. 
 Additional support for: 
