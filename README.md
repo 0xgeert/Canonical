@@ -11,3 +11,4 @@ Additional support for:
  - endpoints for tokeninfo and validation
  - fully declarative (DSL) way in which permissions may be defined
  - permissions are sharable between Applications and Resource Owners in declarative and controlled fashion.
+ - support for multiple token-types (Bearer, MAC, SAML, JWT)
